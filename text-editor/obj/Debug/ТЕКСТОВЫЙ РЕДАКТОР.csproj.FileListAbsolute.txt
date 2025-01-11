@@ -1,0 +1,10 @@
+C:\Users\Artur\source\repos\ТЕКСТОВЫЙ РЕДАКТОР\ТЕКСТОВЫЙ РЕДАКТОР\bin\Debug\ТЕКСТОВЫЙ РЕДАКТОР.exe.config
+C:\Users\Artur\source\repos\ТЕКСТОВЫЙ РЕДАКТОР\ТЕКСТОВЫЙ РЕДАКТОР\bin\Debug\ТЕКСТОВЫЙ РЕДАКТОР.exe
+C:\Users\Artur\source\repos\ТЕКСТОВЫЙ РЕДАКТОР\ТЕКСТОВЫЙ РЕДАКТОР\bin\Debug\ТЕКСТОВЫЙ РЕДАКТОР.pdb
+C:\Users\Artur\source\repos\ТЕКСТОВЫЙ РЕДАКТОР\ТЕКСТОВЫЙ РЕДАКТОР\obj\Debug\ТЕКСТОВЫЙ РЕДАКТОР.csproj.AssemblyReference.cache
+C:\Users\Artur\source\repos\ТЕКСТОВЫЙ РЕДАКТОР\ТЕКСТОВЫЙ РЕДАКТОР\obj\Debug\ТЕКСТОВЫЙ_РЕДАКТОР.Form1.resources
+C:\Users\Artur\source\repos\ТЕКСТОВЫЙ РЕДАКТОР\ТЕКСТОВЫЙ РЕДАКТОР\obj\Debug\ТЕКСТОВЫЙ_РЕДАКТОР.Properties.Resources.resources
+C:\Users\Artur\source\repos\ТЕКСТОВЫЙ РЕДАКТОР\ТЕКСТОВЫЙ РЕДАКТОР\obj\Debug\ТЕКСТОВЫЙ РЕДАКТОР.csproj.GenerateResource.cache
+C:\Users\Artur\source\repos\ТЕКСТОВЫЙ РЕДАКТОР\ТЕКСТОВЫЙ РЕДАКТОР\obj\Debug\ТЕКСТОВЫЙ РЕДАКТОР.csproj.CoreCompileInputs.cache
+C:\Users\Artur\source\repos\ТЕКСТОВЫЙ РЕДАКТОР\ТЕКСТОВЫЙ РЕДАКТОР\obj\Debug\ТЕКСТОВЫЙ РЕДАКТОР.exe
+C:\Users\Artur\source\repos\ТЕКСТОВЫЙ РЕДАКТОР\ТЕКСТОВЫЙ РЕДАКТОР\obj\Debug\ТЕКСТОВЫЙ РЕДАКТОР.pdb

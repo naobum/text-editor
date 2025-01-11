@@ -1,0 +1,20 @@
+C:\Users\Artur\source\repos\text editor\ТЕКСТОВЫЙ РЕДАКТОР\bin\Debug\text-editor.exe.config
+C:\Users\Artur\source\repos\text editor\ТЕКСТОВЫЙ РЕДАКТОР\bin\Debug\text-editor.exe
+C:\Users\Artur\source\repos\text editor\ТЕКСТОВЫЙ РЕДАКТОР\bin\Debug\text-editor.pdb
+C:\Users\Artur\source\repos\text editor\ТЕКСТОВЫЙ РЕДАКТОР\obj\Debug\text-editor.csproj.AssemblyReference.cache
+C:\Users\Artur\source\repos\text editor\ТЕКСТОВЫЙ РЕДАКТОР\obj\Debug\text_editor.Form1.resources
+C:\Users\Artur\source\repos\text editor\ТЕКСТОВЫЙ РЕДАКТОР\obj\Debug\text_editor.Properties.Resources.resources
+C:\Users\Artur\source\repos\text editor\ТЕКСТОВЫЙ РЕДАКТОР\obj\Debug\text-editor.csproj.GenerateResource.cache
+C:\Users\Artur\source\repos\text editor\ТЕКСТОВЫЙ РЕДАКТОР\obj\Debug\text-editor.csproj.CoreCompileInputs.cache
+C:\Users\Artur\source\repos\text editor\ТЕКСТОВЫЙ РЕДАКТОР\obj\Debug\text-editor.exe
+C:\Users\Artur\source\repos\text editor\ТЕКСТОВЫЙ РЕДАКТОР\obj\Debug\text-editor.pdb
+C:\Users\Artur\source\repos\text editor\text-editor\bin\Debug\text-editor.exe.config
+C:\Users\Artur\source\repos\text editor\text-editor\bin\Debug\text-editor.exe
+C:\Users\Artur\source\repos\text editor\text-editor\bin\Debug\text-editor.pdb
+C:\Users\Artur\source\repos\text editor\text-editor\obj\Debug\text-editor.csproj.AssemblyReference.cache
+C:\Users\Artur\source\repos\text editor\text-editor\obj\Debug\text_editor.Form1.resources
+C:\Users\Artur\source\repos\text editor\text-editor\obj\Debug\text_editor.Properties.Resources.resources
+C:\Users\Artur\source\repos\text editor\text-editor\obj\Debug\text-editor.csproj.GenerateResource.cache
+C:\Users\Artur\source\repos\text editor\text-editor\obj\Debug\text-editor.csproj.CoreCompileInputs.cache
+C:\Users\Artur\source\repos\text editor\text-editor\obj\Debug\text-editor.exe
+C:\Users\Artur\source\repos\text editor\text-editor\obj\Debug\text-editor.pdb
